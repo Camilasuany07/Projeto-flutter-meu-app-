@@ -1,0 +1,50 @@
+{
+// Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        
+        {
+            "name": "Dart & Flutter",
+            "request": "launch",
+            "type": "dart",
+        },
+        
+        {
+            "name": "flutter_gymapp_teste",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_gymapp_teste (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_gymapp_teste (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "flutter emulator 3",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter Tests",
+            "program": "test",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "Flutter",
+            "program": "lib/main.dart",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
